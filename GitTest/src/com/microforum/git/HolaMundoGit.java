@@ -7,6 +7,7 @@ public class HolaMundoGit {
 	 */
 	public static void main(String[] args) {
 		System.out.println("Se va a enviar a GIT");
+		System.out.println("Modificando Proyecto GIT");
 
 	}
 
